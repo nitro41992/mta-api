@@ -1,3 +1,7 @@
 venv
 output.csv
 test.py
+data.json
+routes.txt
+stops.txt
+stations.json
